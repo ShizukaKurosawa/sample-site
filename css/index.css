@@ -13,8 +13,12 @@
 	padding: 20px;
 }
 
+a {
+	font-size: 14px;
+}
+
 h1{
-	font-size:1.2rem;
+	font-size: 1.2rem;
 }
 
 h2{
@@ -62,6 +66,7 @@ nav ul li a:hover {
 		color:#fff;	
 	}
 }
+
 section{
 	padding:30px;
 }
@@ -73,4 +78,3 @@ section:nth-child(1){
 section:nth-child(2n){
 	background:#f3f3f3;	
 }
-
